@@ -1,0 +1,1407 @@
+Array
+(
+    [0] => Array
+        (
+            [id] => 108
+            [user_id] => 2
+            [username] => admin
+            [action] => pdf_extract
+            [ip_address] => 5.75.33.218
+            [timestamp] => 2025-07-16 20:24:28
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [1] => Array
+        (
+            [id] => 107
+            [user_id] => 2
+            [username] => admin
+            [action] => pdf_extract
+            [ip_address] => 5.75.33.218
+            [timestamp] => 2025-07-16 20:19:43
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [2] => Array
+        (
+            [id] => 106
+            [user_id] => 2
+            [username] => admin
+            [action] => pdf_extract
+            [ip_address] => 5.75.33.218
+            [timestamp] => 2025-07-16 20:13:26
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [3] => Array
+        (
+            [id] => 105
+            [user_id] => 2
+            [username] => admin
+            [action] => pdf_extract
+            [ip_address] => 5.75.33.218
+            [timestamp] => 2025-07-16 20:06:13
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [4] => Array
+        (
+            [id] => 104
+            [user_id] => 2
+            [username] => admin
+            [action] => pdf_extract
+            [ip_address] => 5.75.33.218
+            [timestamp] => 2025-07-16 20:04:29
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [5] => Array
+        (
+            [id] => 103
+            [user_id] => 2
+            [username] => admin
+            [action] => pdf_extract
+            [ip_address] => 5.75.33.218
+            [timestamp] => 2025-07-16 19:57:42
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [6] => Array
+        (
+            [id] => 102
+            [user_id] => 2
+            [username] => admin
+            [action] => pdf_extract
+            [ip_address] => 5.75.33.218
+            [timestamp] => 2025-07-16 19:57:22
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [7] => Array
+        (
+            [id] => 101
+            [user_id] => 2
+            [username] => admin
+            [action] => pdf_extract
+            [ip_address] => 5.75.33.218
+            [timestamp] => 2025-07-16 19:53:48
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [8] => Array
+        (
+            [id] => 100
+            [user_id] => 2
+            [username] => admin
+            [action] => pdf_extract
+            [ip_address] => 5.75.33.218
+            [timestamp] => 2025-07-16 19:53:06
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [9] => Array
+        (
+            [id] => 99
+            [user_id] => 2
+            [username] => admin
+            [action] => pdf_extract
+            [ip_address] => 5.75.33.218
+            [timestamp] => 2025-07-16 19:48:57
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [10] => Array
+        (
+            [id] => 98
+            [user_id] => 2
+            [username] => admin
+            [action] => pdf_extract
+            [ip_address] => 5.75.33.218
+            [timestamp] => 2025-07-16 19:41:55
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [11] => Array
+        (
+            [id] => 97
+            [user_id] => 2
+            [username] => admin
+            [action] => login
+            [ip_address] => 5.75.33.218
+            [timestamp] => 2025-07-16 19:41:32
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [12] => Array
+        (
+            [id] => 96
+            [user_id] => 2
+            [username] => admin
+            [action] => logout
+            [ip_address] => 5.75.33.218
+            [timestamp] => 2025-07-16 19:41:21
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [13] => Array
+        (
+            [id] => 95
+            [user_id] => 2
+            [username] => admin
+            [action] => pdf_extract
+            [ip_address] => 5.75.33.218
+            [timestamp] => 2025-07-16 19:39:26
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [14] => Array
+        (
+            [id] => 94
+            [user_id] => 2
+            [username] => admin
+            [action] => pdf_extract
+            [ip_address] => 5.75.33.218
+            [timestamp] => 2025-07-16 19:33:18
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [15] => Array
+        (
+            [id] => 93
+            [user_id] => 2
+            [username] => admin
+            [action] => pdf_extract
+            [ip_address] => 5.75.33.218
+            [timestamp] => 2025-07-16 19:33:05
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [16] => Array
+        (
+            [id] => 92
+            [user_id] => 2
+            [username] => admin
+            [action] => pdf_extract
+            [ip_address] => 5.75.33.218
+            [timestamp] => 2025-07-16 19:19:26
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [17] => Array
+        (
+            [id] => 91
+            [user_id] => 2
+            [username] => admin
+            [action] => pdf_extract
+            [ip_address] => 5.75.33.218
+            [timestamp] => 2025-07-16 19:17:02
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [18] => Array
+        (
+            [id] => 90
+            [user_id] => 2
+            [username] => admin
+            [action] => pdf_extract
+            [ip_address] => 5.75.33.218
+            [timestamp] => 2025-07-16 19:16:14
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [19] => Array
+        (
+            [id] => 89
+            [user_id] => 2
+            [username] => admin
+            [action] => pdf_extract
+            [ip_address] => 5.75.33.218
+            [timestamp] => 2025-07-16 19:14:41
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [20] => Array
+        (
+            [id] => 88
+            [user_id] => 2
+            [username] => admin
+            [action] => pdf_extract
+            [ip_address] => 5.75.33.218
+            [timestamp] => 2025-07-16 19:13:30
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [21] => Array
+        (
+            [id] => 87
+            [user_id] => 2
+            [username] => admin
+            [action] => pdf_extract
+            [ip_address] => 5.75.33.218
+            [timestamp] => 2025-07-16 19:09:48
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [22] => Array
+        (
+            [id] => 86
+            [user_id] => 2
+            [username] => admin
+            [action] => pdf_extract
+            [ip_address] => 5.75.33.218
+            [timestamp] => 2025-07-16 19:08:18
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [23] => Array
+        (
+            [id] => 85
+            [user_id] => 2
+            [username] => admin
+            [action] => pdf_extract
+            [ip_address] => 5.75.33.218
+            [timestamp] => 2025-07-16 19:01:35
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [24] => Array
+        (
+            [id] => 84
+            [user_id] => 2
+            [username] => admin
+            [action] => pdf_extract
+            [ip_address] => 5.75.33.218
+            [timestamp] => 2025-07-16 18:55:50
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [25] => Array
+        (
+            [id] => 83
+            [user_id] => 2
+            [username] => admin
+            [action] => pdf_extract
+            [ip_address] => 5.75.33.218
+            [timestamp] => 2025-07-16 18:50:54
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [26] => Array
+        (
+            [id] => 82
+            [user_id] => 2
+            [username] => admin
+            [action] => pdf_extract
+            [ip_address] => 5.75.33.218
+            [timestamp] => 2025-07-16 18:45:38
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [27] => Array
+        (
+            [id] => 81
+            [user_id] => 2
+            [username] => admin
+            [action] => pdf_extract
+            [ip_address] => 5.75.33.218
+            [timestamp] => 2025-07-16 18:38:01
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [28] => Array
+        (
+            [id] => 80
+            [user_id] => 2
+            [username] => admin
+            [action] => pdf_extract
+            [ip_address] => 5.75.33.218
+            [timestamp] => 2025-07-16 18:30:16
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [29] => Array
+        (
+            [id] => 79
+            [user_id] => 2
+            [username] => admin
+            [action] => pdf_extract
+            [ip_address] => 5.75.33.218
+            [timestamp] => 2025-07-16 18:21:41
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [30] => Array
+        (
+            [id] => 78
+            [user_id] => 2
+            [username] => admin
+            [action] => pdf_extract
+            [ip_address] => 5.75.33.218
+            [timestamp] => 2025-07-16 18:19:19
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [31] => Array
+        (
+            [id] => 77
+            [user_id] => 2
+            [username] => admin
+            [action] => pdf_extract
+            [ip_address] => 5.75.33.218
+            [timestamp] => 2025-07-16 18:16:10
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [32] => Array
+        (
+            [id] => 76
+            [user_id] => 2
+            [username] => admin
+            [action] => pdf_extract
+            [ip_address] => 5.75.33.218
+            [timestamp] => 2025-07-16 18:10:07
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [33] => Array
+        (
+            [id] => 75
+            [user_id] => 2
+            [username] => admin
+            [action] => login
+            [ip_address] => 5.75.33.218
+            [timestamp] => 2025-07-16 18:08:52
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [34] => Array
+        (
+            [id] => 74
+            [user_id] => 3
+            [username] => moj101
+            [action] => logout
+            [ip_address] => 5.75.33.218
+            [timestamp] => 2025-07-16 18:08:41
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [35] => Array
+        (
+            [id] => 73
+            [user_id] => 3
+            [username] => moj101
+            [action] => pdf_extract
+            [ip_address] => 5.75.33.218
+            [timestamp] => 2025-07-16 17:58:12
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [36] => Array
+        (
+            [id] => 72
+            [user_id] => 3
+            [username] => moj101
+            [action] => pdf_extract
+            [ip_address] => 5.75.33.218
+            [timestamp] => 2025-07-16 17:41:34
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [37] => Array
+        (
+            [id] => 71
+            [user_id] => 3
+            [username] => moj101
+            [action] => pdf_extract
+            [ip_address] => 5.75.33.218
+            [timestamp] => 2025-07-16 17:31:52
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [38] => Array
+        (
+            [id] => 70
+            [user_id] => 3
+            [username] => moj101
+            [action] => pdf_extract
+            [ip_address] => 5.75.33.218
+            [timestamp] => 2025-07-16 17:18:13
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [39] => Array
+        (
+            [id] => 69
+            [user_id] => 3
+            [username] => moj101
+            [action] => pdf_extract
+            [ip_address] => 5.75.33.218
+            [timestamp] => 2025-07-16 17:04:34
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [40] => Array
+        (
+            [id] => 68
+            [user_id] => 3
+            [username] => moj101
+            [action] => pdf_extract
+            [ip_address] => 5.75.33.218
+            [timestamp] => 2025-07-16 16:58:43
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [41] => Array
+        (
+            [id] => 67
+            [user_id] => 3
+            [username] => moj101
+            [action] => pdf_extract
+            [ip_address] => 5.75.33.218
+            [timestamp] => 2025-07-16 16:55:44
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [42] => Array
+        (
+            [id] => 66
+            [user_id] => 3
+            [username] => moj101
+            [action] => pdf_extract
+            [ip_address] => 5.75.33.218
+            [timestamp] => 2025-07-16 16:48:49
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [43] => Array
+        (
+            [id] => 65
+            [user_id] => 3
+            [username] => moj101
+            [action] => pdf_extract
+            [ip_address] => 5.75.33.218
+            [timestamp] => 2025-07-16 16:42:52
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [44] => Array
+        (
+            [id] => 64
+            [user_id] => 3
+            [username] => moj101
+            [action] => pdf_extract
+            [ip_address] => 5.75.33.218
+            [timestamp] => 2025-07-16 16:37:17
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [45] => Array
+        (
+            [id] => 63
+            [user_id] => 3
+            [username] => moj101
+            [action] => pdf_extract
+            [ip_address] => 5.75.33.218
+            [timestamp] => 2025-07-16 16:29:26
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [46] => Array
+        (
+            [id] => 62
+            [user_id] => 3
+            [username] => moj101
+            [action] => login
+            [ip_address] => 5.75.33.218
+            [timestamp] => 2025-07-16 16:28:21
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [47] => Array
+        (
+            [id] => 61
+            [user_id] => 2
+            [username] => admin
+            [action] => logout
+            [ip_address] => 5.75.33.218
+            [timestamp] => 2025-07-16 16:28:10
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [48] => Array
+        (
+            [id] => 60
+            [user_id] => 2
+            [username] => admin
+            [action] => login
+            [ip_address] => 5.75.33.218
+            [timestamp] => 2025-07-16 16:23:23
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [49] => Array
+        (
+            [id] => 59
+            [user_id] => 2
+            [username] => admin
+            [action] => logout
+            [ip_address] => 5.218.126.209
+            [timestamp] => 2025-07-16 08:58:23
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [50] => Array
+        (
+            [id] => 58
+            [user_id] => 2
+            [username] => admin
+            [action] => pdf_extract
+            [ip_address] => 5.218.126.209
+            [timestamp] => 2025-07-16 08:55:51
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [51] => Array
+        (
+            [id] => 57
+            [user_id] => 2
+            [username] => admin
+            [action] => login
+            [ip_address] => 5.218.126.209
+            [timestamp] => 2025-07-16 08:55:03
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [52] => Array
+        (
+            [id] => 56
+            [user_id] => 3
+            [username] => moj101
+            [action] => logout
+            [ip_address] => 5.218.126.209
+            [timestamp] => 2025-07-16 08:54:51
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [53] => Array
+        (
+            [id] => 55
+            [user_id] => 3
+            [username] => moj101
+            [action] => login
+            [ip_address] => 5.218.126.209
+            [timestamp] => 2025-07-16 08:54:37
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [54] => Array
+        (
+            [id] => 54
+            [user_id] => 2
+            [username] => admin
+            [action] => pdf_extract
+            [ip_address] => 37.191.92.1
+            [timestamp] => 2025-07-16 07:55:07
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [55] => Array
+        (
+            [id] => 53
+            [user_id] => 2
+            [username] => admin
+            [action] => pdf_extract
+            [ip_address] => 37.191.92.1
+            [timestamp] => 2025-07-16 07:52:09
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [56] => Array
+        (
+            [id] => 52
+            [user_id] => 2
+            [username] => admin
+            [action] => pdf_extract
+            [ip_address] => 37.191.92.1
+            [timestamp] => 2025-07-16 07:51:34
+            [input_tokens] => 
+            [output_tokens] => 
+            [file_name] => 
+        )
+
+    [57] => Array
+        (
+            [id] => 51
+            [user_id] => 2
+            [username] => admin
+            [action] => pdf_extract
+            [ip_address] => 37.191.92.1
+            [timestamp] => 2025-07-16 07:46:54
+            [input_tokens] => 4383
+            [output_tokens] => 5776
+            [file_name] => 4360.pdf
+        )
+
+    [58] => Array
+        (
+            [id] => 50
+            [user_id] => 2
+            [username] => admin
+            [action] => login
+            [ip_address] => 37.191.92.1
+            [timestamp] => 2025-07-16 07:46:17
+            [input_tokens] => 6963
+            [output_tokens] => 5666
+            [file_name] => 7983.pdf
+        )
+
+    [59] => Array
+        (
+            [id] => 49
+            [user_id] => 3
+            [username] => moj101
+            [action] => logout
+            [ip_address] => 37.191.92.1
+            [timestamp] => 2025-07-16 07:45:30
+            [input_tokens] => 6963
+            [output_tokens] => 3379
+            [file_name] => 7983.pdf
+        )
+
+    [60] => Array
+        (
+            [id] => 48
+            [user_id] => 3
+            [username] => moj101
+            [action] => login
+            [ip_address] => 37.191.92.1
+            [timestamp] => 2025-07-16 07:45:26
+            [input_tokens] => 6963
+            [output_tokens] => 6275
+            [file_name] => 7983.pdf
+        )
+
+    [61] => Array
+        (
+            [id] => 47
+            [user_id] => 2
+            [username] => admin
+            [action] => logout
+            [ip_address] => 37.191.92.1
+            [timestamp] => 2025-07-16 07:45:10
+            [input_tokens] => 4383
+            [output_tokens] => 5854
+            [file_name] => 4360.pdf
+        )
+
+    [62] => Array
+        (
+            [id] => 46
+            [user_id] => 2
+            [username] => admin
+            [action] => pdf_extract
+            [ip_address] => 37.191.92.1
+            [timestamp] => 2025-07-16 07:43:54
+            [input_tokens] => 0
+            [output_tokens] => 0
+            [file_name] => 4360.pdf
+        )
+
+    [63] => Array
+        (
+            [id] => 45
+            [user_id] => 2
+            [username] => admin
+            [action] => login
+            [ip_address] => 37.191.92.1
+            [timestamp] => 2025-07-16 07:43:16
+            [input_tokens] => 0
+            [output_tokens] => 0
+            [file_name] => 4360.pdf
+        )
+
+    [64] => Array
+        (
+            [id] => 44
+            [user_id] => 2
+            [username] => admin
+            [action] => logout
+            [ip_address] => 37.191.92.1
+            [timestamp] => 2025-07-16 07:41:45
+            [input_tokens] => 0
+            [output_tokens] => 0
+            [file_name] => 4360.pdf
+        )
+
+    [65] => Array
+        (
+            [id] => 43
+            [user_id] => 2
+            [username] => admin
+            [action] => pdf_extract
+            [ip_address] => 37.191.92.1
+            [timestamp] => 2025-07-16 07:36:26
+            [input_tokens] => 0
+            [output_tokens] => 0
+            [file_name] => 7983.pdf
+        )
+
+    [66] => Array
+        (
+            [id] => 42
+            [user_id] => 2
+            [username] => admin
+            [action] => pdf_extract
+            [ip_address] => 37.191.92.1
+            [timestamp] => 2025-07-16 07:29:34
+            [input_tokens] => 0
+            [output_tokens] => 0
+            [file_name] => 7983.pdf
+        )
+
+    [67] => Array
+        (
+            [id] => 41
+            [user_id] => 2
+            [username] => admin
+            [action] => pdf_extract
+            [ip_address] => 37.191.92.1
+            [timestamp] => 2025-07-16 07:23:27
+            [input_tokens] => 0
+            [output_tokens] => 0
+            [file_name] => 7983.pdf
+        )
+
+    [68] => Array
+        (
+            [id] => 40
+            [user_id] => 2
+            [username] => admin
+            [action] => login
+            [ip_address] => 37.191.92.1
+            [timestamp] => 2025-07-16 07:21:27
+            [input_tokens] => 0
+            [output_tokens] => 0
+            [file_name] => 7983.pdf
+        )
+
+    [69] => Array
+        (
+            [id] => 39
+            [user_id] => 3
+            [username] => moj101
+            [action] => logout
+            [ip_address] => 37.191.92.1
+            [timestamp] => 2025-07-16 06:54:01
+            [input_tokens] => 0
+            [output_tokens] => 0
+            [file_name] => 7983.pdf
+        )
+
+    [70] => Array
+        (
+            [id] => 38
+            [user_id] => 3
+            [username] => moj101
+            [action] => login
+            [ip_address] => 37.191.92.1
+            [timestamp] => 2025-07-16 04:03:59
+            [input_tokens] => 0
+            [output_tokens] => 0
+            [file_name] => 7983.pdf
+        )
+
+    [71] => Array
+        (
+            [id] => 37
+            [user_id] => 4
+            [username] => rahmati
+            [action] => login
+            [ip_address] => 5.250.125.171
+            [timestamp] => 2025-07-16 03:58:32
+            [input_tokens] => 2713
+            [output_tokens] => 3001
+            [file_name] => MBA سطح 2.pdf
+        )
+
+    [72] => Array
+        (
+            [id] => 36
+            [user_id] => 4
+            [username] => rahmati
+            [action] => logout
+            [ip_address] => 37.191.92.1
+            [timestamp] => 2025-07-16 03:57:53
+            [input_tokens] => 2713
+            [output_tokens] => 3054
+            [file_name] => MBA سطح 2.pdf
+        )
+
+    [73] => Array
+        (
+            [id] => 35
+            [user_id] => 4
+            [username] => rahmati
+            [action] => login
+            [ip_address] => 37.191.92.1
+            [timestamp] => 2025-07-16 03:57:45
+            [input_tokens] => 6841
+            [output_tokens] => 6193
+            [file_name] => 7983.pdf
+        )
+
+    [74] => Array
+        (
+            [id] => 34
+            [user_id] => 4
+            [username] => rahmati
+            [action] => logout
+            [ip_address] => 37.191.92.1
+            [timestamp] => 2025-07-16 03:57:32
+            [input_tokens] => 4261
+            [output_tokens] => 4738
+            [file_name] => 8954_4.pdf
+        )
+
+    [75] => Array
+        (
+            [id] => 33
+            [user_id] => 4
+            [username] => rahmati
+            [action] => login
+            [ip_address] => 37.191.92.1
+            [timestamp] => 2025-07-16 03:56:12
+            [input_tokens] => 6841
+            [output_tokens] => 6933
+            [file_name] => 7983.pdf
+        )
+
+    [76] => Array
+        (
+            [id] => 32
+            [user_id] => 2
+            [username] => admin
+            [action] => logout
+            [ip_address] => 37.191.92.1
+            [timestamp] => 2025-07-16 03:56:03
+            [input_tokens] => 6841
+            [output_tokens] => 6377
+            [file_name] => 7983.pdf
+        )
+
+    [77] => Array
+        (
+            [id] => 31
+            [user_id] => 2
+            [username] => admin
+            [action] => login
+            [ip_address] => 37.191.92.1
+            [timestamp] => 2025-07-16 03:54:51
+            [input_tokens] => 6841
+            [output_tokens] => 5969
+            [file_name] => 7983.pdf
+        )
+
+    [78] => Array
+        (
+            [id] => 30
+            [user_id] => 3
+            [username] => moj101
+            [action] => logout
+            [ip_address] => 37.191.92.1
+            [timestamp] => 2025-07-16 03:54:35
+            [input_tokens] => 6841
+            [output_tokens] => 6150
+            [file_name] => 7983.pdf
+        )
+
+    [79] => Array
+        (
+            [id] => 29
+            [user_id] => 3
+            [username] => moj101
+            [action] => login
+            [ip_address] => 37.191.92.1
+            [timestamp] => 2025-07-16 03:53:48
+            [input_tokens] => 6841
+            [output_tokens] => 7408
+            [file_name] => 7983.pdf
+        )
+
+    [80] => Array
+        (
+            [id] => 28
+            [user_id] => 2
+            [username] => admin
+            [action] => logout
+            [ip_address] => 37.191.92.1
+            [timestamp] => 2025-07-16 03:53:35
+            [input_tokens] => 6841
+            [output_tokens] => 3873
+            [file_name] => 7983.pdf
+        )
+
+    [81] => Array
+        (
+            [id] => 27
+            [user_id] => 2
+            [username] => admin
+            [action] => login
+            [ip_address] => 37.191.92.1
+            [timestamp] => 2025-07-16 03:50:05
+            [input_tokens] => 6841
+            [output_tokens] => 5971
+            [file_name] => 7983.pdf
+        )
+
+    [82] => Array
+        (
+            [id] => 26
+            [user_id] => 2
+            [username] => admin
+            [action] => logout
+            [ip_address] => 37.191.92.1
+            [timestamp] => 2025-07-16 03:28:51
+            [input_tokens] => 6841
+            [output_tokens] => 6170
+            [file_name] => 7983.pdf
+        )
+
+    [83] => Array
+        (
+            [id] => 25
+            [user_id] => 2
+            [username] => admin
+            [action] => login
+            [ip_address] => 37.191.92.1
+            [timestamp] => 2025-07-16 03:19:32
+            [input_tokens] => 6841
+            [output_tokens] => 5743
+            [file_name] => 7983.pdf
+        )
+
+    [84] => Array
+        (
+            [id] => 24
+            [user_id] => 2
+            [username] => admin
+            [action] => logout
+            [ip_address] => 37.191.92.1
+            [timestamp] => 2025-07-16 03:19:26
+            [input_tokens] => 6841
+            [output_tokens] => 7651
+            [file_name] => 7983.pdf
+        )
+
+    [85] => Array
+        (
+            [id] => 23
+            [user_id] => 2
+            [username] => admin
+            [action] => login
+            [ip_address] => 37.191.92.1
+            [timestamp] => 2025-07-16 03:02:17
+            [input_tokens] => 6841
+            [output_tokens] => 4710
+            [file_name] => 7983.pdf
+        )
+
+    [86] => Array
+        (
+            [id] => 22
+            [user_id] => 2
+            [username] => admin
+            [action] => logout
+            [ip_address] => 37.191.92.1
+            [timestamp] => 2025-07-16 02:57:05
+            [input_tokens] => 6841
+            [output_tokens] => 5305
+            [file_name] => 7983.pdf
+        )
+
+    [87] => Array
+        (
+            [id] => 21
+            [user_id] => 2
+            [username] => admin
+            [action] => login
+            [ip_address] => 37.191.92.1
+            [timestamp] => 2025-07-16 02:56:39
+            [input_tokens] => 6841
+            [output_tokens] => 3104
+            [file_name] => 7983.pdf
+        )
+
+    [88] => Array
+        (
+            [id] => 20
+            [user_id] => 2
+            [username] => admin
+            [action] => logout
+            [ip_address] => 5.75.112.4
+            [timestamp] => 2025-07-15 19:26:05
+            [input_tokens] => 6841
+            [output_tokens] => 8008
+            [file_name] => 7983.pdf
+        )
+
+    [89] => Array
+        (
+            [id] => 19
+            [user_id] => 2
+            [username] => admin
+            [action] => login
+            [ip_address] => 5.75.112.4
+            [timestamp] => 2025-07-15 19:22:42
+            [input_tokens] => 6841
+            [output_tokens] => 5796
+            [file_name] => 7983.pdf
+        )
+
+    [90] => Array
+        (
+            [id] => 18
+            [user_id] => 2
+            [username] => admin
+            [action] => logout
+            [ip_address] => 5.75.112.4
+            [timestamp] => 2025-07-15 19:22:34
+            [input_tokens] => 6841
+            [output_tokens] => 6269
+            [file_name] => 7983.pdf
+        )
+
+    [91] => Array
+        (
+            [id] => 17
+            [user_id] => 2
+            [username] => admin
+            [action] => login
+            [ip_address] => 5.75.112.4
+            [timestamp] => 2025-07-15 19:22:18
+            [input_tokens] => 4777
+            [output_tokens] => 1435
+            [file_name] => 7975.pdf
+        )
+
+    [92] => Array
+        (
+            [id] => 16
+            [user_id] => 2
+            [username] => admin
+            [action] => login
+            [ip_address] => 5.75.112.4
+            [timestamp] => 2025-07-15 19:21:48
+            [input_tokens] => 4777
+            [output_tokens] => 4997
+            [file_name] => 7975.pdf
+        )
+
+    [93] => Array
+        (
+            [id] => 15
+            [user_id] => 2
+            [username] => admin
+            [action] => logout
+            [ip_address] => 5.75.112.4
+            [timestamp] => 2025-07-15 19:21:40
+            [input_tokens] => 4777
+            [output_tokens] => 4773
+            [file_name] => 7975.pdf
+        )
+
+    [94] => Array
+        (
+            [id] => 14
+            [user_id] => 2
+            [username] => admin
+            [action] => login
+            [ip_address] => 5.75.112.4
+            [timestamp] => 2025-07-15 19:19:22
+            [input_tokens] => 6841
+            [output_tokens] => 5820
+            [file_name] => 7983.pdf
+        )
+
+    [95] => Array
+        (
+            [id] => 13
+            [user_id] => 2
+            [username] => admin
+            [action] => logout
+            [ip_address] => 5.75.112.4
+            [timestamp] => 2025-07-15 19:13:35
+            [input_tokens] => 6841
+            [output_tokens] => 5938
+            [file_name] => 7983.pdf
+        )
+
+    [96] => Array
+        (
+            [id] => 12
+            [user_id] => 2
+            [username] => admin
+            [action] => login
+            [ip_address] => 5.75.112.4
+            [timestamp] => 2025-07-15 19:08:22
+            [input_tokens] => 6841
+            [output_tokens] => 5097
+            [file_name] => 7983.pdf
+        )
+
+    [97] => Array
+        (
+            [id] => 11
+            [user_id] => 2
+            [username] => admin
+            [action] => logout
+            [ip_address] => 5.75.112.4
+            [timestamp] => 2025-07-15 19:06:09
+            [input_tokens] => 6841
+            [output_tokens] => 2942
+            [file_name] => 7983.pdf
+        )
+
+    [98] => Array
+        (
+            [id] => 10
+            [user_id] => 2
+            [username] => admin
+            [action] => login
+            [ip_address] => 5.75.112.4
+            [timestamp] => 2025-07-15 19:05:42
+            [input_tokens] => 6841
+            [output_tokens] => 5433
+            [file_name] => 7983.pdf
+        )
+
+    [99] => Array
+        (
+            [id] => 9
+            [user_id] => 2
+            [username] => admin
+            [action] => logout
+            [ip_address] => 5.75.112.4
+            [timestamp] => 2025-07-15 19:03:38
+            [input_tokens] => 4261
+            [output_tokens] => 4735
+            [file_name] => 8954_4.pdf
+        )
+
+    [100] => Array
+        (
+            [id] => 8
+            [user_id] => 2
+            [username] => admin
+            [action] => login
+            [ip_address] => 5.75.112.4
+            [timestamp] => 2025-07-15 19:01:59
+            [input_tokens] => 3229
+            [output_tokens] => 3523
+            [file_name] => 9897_2.pdf
+        )
+
+    [101] => Array
+        (
+            [id] => 7
+            [user_id] => 2
+            [username] => admin
+            [action] => logout
+            [ip_address] => 5.75.112.4
+            [timestamp] => 2025-07-15 19:01:16
+            [input_tokens] => 3263
+            [output_tokens] => 3521
+            [file_name] => 9897_2.pdf
+        )
+
+    [102] => Array
+        (
+            [id] => 6
+            [user_id] => 2
+            [username] => admin
+            [action] => login
+            [ip_address] => 5.75.112.4
+            [timestamp] => 2025-07-15 19:00:52
+            [input_tokens] => 3263
+            [output_tokens] => 3509
+            [file_name] => 9897_2.pdf
+        )
+
+    [103] => Array
+        (
+            [id] => 5
+            [user_id] => 2
+            [username] => admin
+            [action] => logout
+            [ip_address] => 5.75.112.4
+            [timestamp] => 2025-07-15 18:52:13
+            [input_tokens] => 3263
+            [output_tokens] => 3570
+            [file_name] => 9897_2.pdf
+        )
+
+    [104] => Array
+        (
+            [id] => 4
+            [user_id] => 2
+            [username] => admin
+            [action] => login
+            [ip_address] => 5.75.112.4
+            [timestamp] => 2025-07-15 18:51:49
+            [input_tokens] => 3263
+            [output_tokens] => 3546
+            [file_name] => 9897_2.pdf
+        )
+
+    [105] => Array
+        (
+            [id] => 3
+            [user_id] => 2
+            [username] => admin
+            [action] => logout
+            [ip_address] => 5.75.112.4
+            [timestamp] => 2025-07-15 18:34:12
+            [input_tokens] => 3263
+            [output_tokens] => 3565
+            [file_name] => 9897_2.pdf
+        )
+
+    [106] => Array
+        (
+            [id] => 2
+            [user_id] => 2
+            [username] => admin
+            [action] => login
+            [ip_address] => 5.75.112.4
+            [timestamp] => 2025-07-15 18:34:03
+            [input_tokens] => 3248
+            [output_tokens] => 3531
+            [file_name] => 9897_2.pdf
+        )
+
+    [107] => Array
+        (
+            [id] => 1
+            [user_id] => 2
+            [username] => admin
+            [action] => logout
+            [ip_address] => 5.75.112.4
+            [timestamp] => 2025-07-15 18:33:51
+            [input_tokens] => 3248
+            [output_tokens] => 3465
+            [file_name] => 9897_2.pdf
+        )
+
+)
