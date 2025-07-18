@@ -37,7 +37,8 @@
         $tablesDisplay = '';
 
         if (isset($_POST['submit']) && isset($_FILES['pdf_file'])) {
-            $apiKey = "aa-RdVuGuZPZp0I9JFwTZwp03wJyajFcSRsp3m5fmgUaQDikgpm";
+            //// put avalai api key here
+            $apiKey = "aa----";
 
             // تابع برای تخمین تعداد توکن‌ها
             function estimateTokens($text, $fileSize = 0) {
