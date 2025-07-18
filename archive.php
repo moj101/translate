@@ -40,7 +40,12 @@ $message = isset($_GET['message']) ? urldecode($_GET['message']) : '';
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>آرشیو ترجمه‌ها</title>
     <link href="/assets/css/bootstrap.min.css" rel="stylesheet">
-    <link href="https://cdn.fontcdn.ir/Font/Persian/Vazir/Vazir.css" rel="stylesheet">
+  <link href="/assets/fonts/Vazirmatn-font-face.css" rel="stylesheet">    
+   <style>
+  body {
+    font-family: 'Vazirmatn', sans-serif;
+  }
+</style>
     <style>
         body { font-family: 'Vazir', sans-serif; background: linear-gradient(135deg, #f0f4f8 0%, #d9e2ec 100%); }
         .container { max-width: 900px; margin: 50px auto; }

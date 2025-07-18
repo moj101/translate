@@ -4,8 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>استخراج متن و جداول از PDF</title>
-    <link href="https://unpkg.com/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
-    <script src="https://unpkg.com/lucide@latest"></script>
+    <link href="/assets/css/tailwind.min.css" rel="stylesheet">
+    <script src="/assets/js/lucide.min.js"></script>
+    <script>
+      lucide.createIcons(); // فعال‌سازی آیکون‌ها
+    </script>
 </head>
 <body class="bg-gray-100 min-h-screen">
     <?php
@@ -37,8 +40,7 @@
         $tablesDisplay = '';
 
         if (isset($_POST['submit']) && isset($_FILES['pdf_file'])) {
-            //// put avalai api key here
-            $apiKey = "aa----";
+            $apiKey = "aa-RdVuGuZPZp0I9JFwTZwp03wJyajFcSRsp3m5fmgUaQDikgpm";
 
             // تابع برای تخمین تعداد توکن‌ها
             function estimateTokens($text, $fileSize = 0) {
