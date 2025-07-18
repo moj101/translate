@@ -73,7 +73,12 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             font-family: 'Vazirmatn', 'Arial', sans-serif;
         }
     </style>
-    <link href="https://cdn.jsdelivr.net/npm/@fontsource/vazirmatn/400.css" rel="stylesheet">
+   <link href="/assets/fonts/Vazirmatn-font-face.css" rel="stylesheet">    
+   <style>
+  body {
+    font-family: 'Vazirmatn', sans-serif;
+  }
+</style>
 </head>
 <body class="min-h-screen flex items-center justify-center">
     <div class="bg-white shadow-2xl rounded-3xl p-8 w-full max-w-md mx-4">

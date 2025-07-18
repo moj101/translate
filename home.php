@@ -61,15 +61,24 @@ if (isset($_GET['error']) && $_GET['error'] === 'access_denied') {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>صفحه اصلی</title>
-    <script src="https://cdn.tailwindcss.com"></script>
-    <script src="https://unpkg.com/lucide@latest"></script>
-    <style>
+<link href="/assets/css/tailwind.min.css" rel="stylesheet">
+<script src="/assets/js/lucide.min.js"></script>
+<script>
+  lucide.createIcons(); // فعال‌سازی آیکون‌ها
+</script>
+<style>
         body {
             font-family: 'Vazirmatn', 'Arial', sans-serif;
             background: linear-gradient(135deg, #f0f4f8 0%, #e0f2fe 100%);
         }
     </style>
-    <link href="https://cdn.jsdelivr.net/npm/@fontsource/vazirmatn/400.css" rel="stylesheet">
+   <link href="/assets/fonts/Vazirmatn-font-face.css" rel="stylesheet">    
+   <style>
+  body {
+    font-family: 'Vazirmatn', sans-serif;
+  }
+</style>
+   
 </head>
 <body class="min-h-screen flex items-center justify-center px-4">
     <div class="w-full max-w-5xl mx-auto bg-white/70 backdrop-blur-md shadow-2xl rounded-3xl p-8 border border-blue-100">
