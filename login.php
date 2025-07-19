@@ -80,41 +80,70 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
   }
 </style>
 </head>
-<body class="min-h-screen flex items-center justify-center">
-    <div class="bg-white shadow-2xl rounded-3xl p-8 w-full max-w-md mx-4">
-        <div class="text-center mb-6">
-            <img src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png" alt="Logo" class="w-16 h-16 mx-auto mb-2">
-            <h2 class="text-2xl font-bold text-gray-800">سامانه ترجمه هوشمند</h2>
-            <p class="text-sm text-gray-600">لطفاً برای ورود اطلاعات خود را وارد نمایید</p>
+<body class="min-h-screen flex items-center justify-center bg-gradient-to-tr from-blue-50 to-blue-100 p-4">
+
+    <div class="flex flex-col md:flex-row bg-white shadow-2xl rounded-3xl overflow-hidden max-w-5xl w-full">
+        
+       <!-- 🔹 بخش معرفی سامانه -->
+<div class="bg-blue-600 text-white p-8 md:w-1/2 flex flex-col justify-center">
+    <!-- فقط عنوان وسط‌چین -->
+    <h2 class="text-3xl font-bold mb-4 text-center">سامانه ترجمه هوشمند</h2>
+
+    <!-- متن توضیحی و لیست راست‌چین -->
+    <div class="text-right">
+        <p class="text-lg mb-4">ترجمه سریع و دقیق متون فارسی با قدرت هوش مصنوعی</p>
+        <ul class="list-disc pr-5 space-y-2 text-sm">
+            <li>ترجمه متون تخصصی و عمومی</li>
+            <li>استخراج متن از فایل‌های PDF</li>
+            <li>پردازش و خلاصه‌سازی متون توسط مدل‌های زبانی</li>
+            <li>ترجمه فایل‌های PDF به زبان فارسی</li>
+        </ul>
+        <div class="mt-6 text-sm opacity-80 text-center">
+            ارائه‌شده توسط سامانه <span class="font-semibold">مترجم‌یار هوشمند</span>
         </div>
+    </div>
 
-        <?php if (!empty($error)): ?>
-            <p class="text-red-600 text-center font-medium bg-red-100 p-2 rounded-md mb-4"><?php echo htmlspecialchars($error); ?></p>
-        <?php endif; ?>
-
-        <form method="POST" class="space-y-5">
-            <div>
-                <label for="username" class="block text-sm font-medium text-gray-700 mb-1">نام کاربری</label>
-                <input type="text" name="username" id="username" required
-                       class="w-full p-3 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 bg-white">
+    <!-- فقط خط آخر وسط‌چین -->
+    <div class="mt-6 text-sm font-medium text-center">
+        برای استفاده از این خدمات <a href="register.php" class="underline text-white hover:text-gray-100">ثبت‌نام کنید</a>.
+    </div>
+</div>
+        <!-- 🔸 فرم ورود -->
+        <div class="p-8 md:w-1/2 w-full">
+            <div class="text-center mb-6">
+                <img src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png" alt="Logo" class="w-16 h-16 mx-auto mb-2">
+                <h2 class="text-2xl font-bold text-gray-800">ورود به حساب کاربری</h2>
+                <p class="text-sm text-gray-600">لطفاً اطلاعات خود را وارد نمایید</p>
             </div>
 
-            <div>
-                <label for="password" class="block text-sm font-medium text-gray-700 mb-1">رمز عبور</label>
-                <input type="password" name="password" id="password" required
-                       class="w-full p-3 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 bg-white">
+            <?php if (!empty($error)): ?>
+                <p class="text-red-600 text-center font-medium bg-red-100 p-2 rounded-md mb-4"><?php echo htmlspecialchars($error); ?></p>
+            <?php endif; ?>
+
+            <form method="POST" class="space-y-5">
+                <div>
+                    <label for="username" class="block text-sm font-medium text-gray-700 mb-1">نام کاربری</label>
+                    <input type="text" name="username" id="username" required
+                        class="w-full p-3 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 bg-white">
+                </div>
+
+                <div>
+                    <label for="password" class="block text-sm font-medium text-gray-700 mb-1">رمز عبور</label>
+                    <input type="password" name="password" id="password" required
+                        class="w-full p-3 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 bg-white">
+                </div>
+
+                <button type="submit"
+                        class="w-full bg-blue-600 text-white font-semibold py-3 rounded-md hover:bg-blue-700 transition flex items-center justify-center gap-2">
+                    <i data-lucide="log-in"></i> ورود
+                </button>
+            </form>
+
+            <div class="mt-4 text-center">
+                <a href="register.php" class="bg-green-100 hover:bg-green-200 text-green-700 font-medium py-2 px-6 rounded-md inline-flex items-center gap-2">
+                    <i data-lucide="user-plus"></i> ثبت‌نام
+                </a>
             </div>
-
-            <button type="submit"
-                    class="w-full bg-blue-600 text-white font-semibold py-3 rounded-md hover:bg-blue-700 transition flex items-center justify-center gap-2">
-                <i data-lucide="log-in"></i> ورود
-            </button>
-        </form>
-
-        <div class="mt-4 text-center">
-            <a href="register.php" class="bg-green-100 hover:bg-green-200 text-green-700 font-medium py-2 px-6 rounded-md inline-flex items-center gap-2">
-                <i data-lucide="user-plus"></i> ثبت‌نام
-            </a>
         </div>
     </div>
 
@@ -122,4 +151,5 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         lucide.createIcons();
     </script>
 </body>
+
 </html>
